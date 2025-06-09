@@ -1,0 +1,830 @@
+[
+  {
+    "question": "What are the early symptoms of diabetes mellitus?",
+    "answer": "Early symptoms of diabetes mellitus include polydipsia (excessive thirst), polyphagia (excessive hunger), polyuria (excessive urination), and blurred vision."
+  },
+  {
+    "question": "How is diabetes mellitus diagnosed?",
+    "answer": "Diabetes mellitus is diagnosed by measuring plasma glucose levels."
+  },
+  {
+    "question": "What are the main treatment approaches for diabetes mellitus?",
+    "answer": "Treatment for diabetes mellitus includes diet, exercise, and medications such as insulin, oral antihyperglycemic medications, and non-insulin injectable medications."
+  },
+  {
+    "question": "What are the two main categories of diabetes mellitus?",
+    "answer": "The two main categories of diabetes mellitus are Type 1 and Type 2."
+  },
+  {
+    "question": "What are some later complications of diabetes mellitus?",
+    "answer": "Later complications of diabetes mellitus include vascular disease, peripheral neuropathy, nephropathy, and an increased predisposition to infection."
+  },
+  {
+    "question": "Why are terms like 'juvenile' or 'adult-onset' diabetes no longer used?",
+    "answer": "Terms like 'juvenile' or 'adult-onset' diabetes are no longer used because there is overlap in age groups and treatments between Type 1 and Type 2 diabetes."
+  },
+  {
+    "question": "What is the leading cause of mortality in diabetes mellitus?",
+    "answer": "Heart disease remains the leading cause of mortality in diabetes mellitus."
+  },
+  {
+    "question": "What are the diagnostic criteria for impaired glucose tolerance or impaired fasting glucose?",
+    "answer": "Impaired glucose tolerance or impaired fasting glucose is an intermediate state between normal glucose metabolism and diabetes mellitus, often becoming more common with aging. It is a significant risk factor for diabetes and cardiovascular disease."
+  },
+  {
+    "question": "What are the microvascular complications associated with poorly controlled diabetes mellitus?",
+    "answer": "Microvascular complications of diabetes mellitus include retinopathy, nephropathy, and neuropathy. These complications arise from years of poorly controlled hyperglycemia affecting small blood vessels."
+  },
+  {
+    "question": "How does macrovascular disease manifest in patients with diabetes mellitus?",
+    "answer": "Macrovascular disease in diabetes mellitus involves atherosclerosis of large vessels, leading to conditions such as angina pectoris, myocardial infarction, transient ischemic attacks, strokes, and peripheral arterial disease."
+  },
+  {
+    "question": "Why are patients with diabetes mellitus more susceptible to infections?",
+    "answer": "Patients with diabetes mellitus are more susceptible to bacterial and fungal infections due to immune dysfunction caused by the direct effects of hyperglycemia on cellular immunity."
+  },
+  {
+    "question": "Can intensive control of plasma glucose reverse established microvascular complications of diabetes?",
+    "answer": "No, intensive control of plasma glucose can prevent or delay many microvascular complications, but it will not reverse them once they are established."
+  },
+  {
+    "question": "What is the primary cause of type 1 diabetes mellitus?",
+    "answer": "Type 1 diabetes mellitus is caused by autoimmune destruction of pancreatic beta-cells, leading to absent insulin production."
+  },
+  {
+    "question": "What percentage of diabetes mellitus cases does type 1 account for?",
+    "answer": "Type 1 diabetes accounts for less than 10% of all cases of diabetes mellitus."
+  },
+  {
+    "question": "What is latent autoimmune diabetes of adulthood (LADA)?",
+    "answer": "LADA is a slowly progressive form of autoimmune diabetes that develops in adulthood and may initially be misdiagnosed as type 2 diabetes."
+  },
+  {
+    "question": "Which susceptibility genes are associated with type 1 diabetes mellitus?",
+    "answer": "Susceptibility genes include those within the MHC, especially HLA-DR3,DQB1*0201 and HLA-DR4,DQB1*0302, which are present in over 90% of patients with type 1 diabetes."
+  },
+  {
+    "question": "What environmental factors contribute to the development of type 1 diabetes?",
+    "answer": "The pathogenesis involves interactions between susceptibility genes, autoantigens, and environmental factors, though the exact environmental triggers are not fully understood."
+  },
+  {
+    "question": "What are some autoantigens involved in type 1 diabetes?",
+    "answer": "Autoantigens include glutamic acid decarboxylase, insulin, proinsulin, and insulinoma-associated proteins."
+  },
+  {
+    "question": "Can type 1 diabetes develop in adults?",
+    "answer": "Yes, type 1 diabetes can develop in adults, often as a more slowly progressive form called latent autoimmune diabetes of adulthood (LADA)."
+  },
+  {
+    "question": "What proteins in beta cells are thought to trigger an immune response in type 1 diabetes?",
+    "answer": "Proteins such as the zinc transporter ZnT8 and other beta-cell proteins are exposed or released during normal turnover or injury, activating a T cell-mediated immune response."
+  },
+  {
+    "question": "How do viruses contribute to the onset of type 1 diabetes?",
+    "answer": "Viruses like coxsackievirus, rubella virus, and SARS-CoV-2 may directly destroy beta cells or indirectly trigger autoimmunity by exposing autoantigens or molecular mimicry."
+  },
+  {
+    "question": "What dietary factors are linked to an increased risk of type 1 diabetes?",
+    "answer": "Exposure to dairy products (especially cow's milk and beta casein), high nitrates in drinking water, low vitamin D intake, and early/late exposure to gluten and cereals may increase risk."
+  },
+  {
+    "question": "What is the role of autoantibodies in type 1 diabetes?",
+    "answer": "Autoantibodies against beta-cell proteins are a response to beta-cell destruction rather than the cause of it."
+  },
+  {
+    "question": "What are the key mechanisms of insulin dysfunction in type 2 diabetes?",
+    "answer": "In type 2 diabetes, insulin resistance impairs hepatic glucose suppression and peripheral glucose uptake, combined with inadequate insulin secretion."
+  },
+  {
+    "question": "What are the early and late insulin level patterns in type 2 diabetes?",
+    "answer": "Early in the disease, insulin levels are often very high. Later, insulin production may decline, worsening hyperglycemia."
+  },
+  {
+    "question": "How does age affect glucose tolerance and post-meal glucose levels?",
+    "answer": "Up to one-third of adults over 65 have impaired glucose tolerance. Older adults experience higher postprandial glucose levels, especially after high-carbohydrate meals, and slower return to normal due to increased visceral fat and decreased muscle mass."
+  },
+  {
+    "question": "Why has type 2 diabetes become more common in children?",
+    "answer": "Type 2 diabetes has increased among children due to the epidemic of childhood obesity."
+  },
+  {
+    "question": "What role does genetics play in type 2 diabetes?",
+    "answer": "Genetics is a clear factor, as evidenced by the high prevalence in relatives of affected individuals, though no single gene is responsible for most common forms."
+  },
+  {
+    "question": "What are some key mechanisms in the pathogenesis of type 2 diabetes?",
+    "answer": "Hyperglycemia arises when insulin secretion fails to compensate for insulin resistance. Mechanisms include impaired first-phase insulin secretion, loss of pulsatile secretion, increased proinsulin (indicating faulty processing), and amyloid polypeptide accumulation."
+  },
+  {
+    "question": "How does hyperglycemia itself contribute to insulin secretion problems?",
+    "answer": "High glucose levels desensitize beta cells or cause dysfunction (glucose toxicity), further impairing insulin secretion."
+  },
+  {
+    "question": "What factors contribute to insulin resistance in type 2 diabetes?",
+    "answer": "Insulin resistance in type 2 diabetes is influenced by genetic determinants, diet, exercise, and lifestyle. Additionally, an inability to suppress lipolysis in adipose tissue increases plasma free fatty acids, which impair insulin-stimulated glucose transport and muscle glycogen synthase activity."
+  },
+  {
+    "question": "How does adipose tissue affect glucose metabolism?",
+    "answer": "Adipose tissue functions as an endocrine organ, releasing adipocytokines such as adiponectin (beneficial) and tumor necrosis factor-alpha, interleukin-6, leptin, and resistin (adverse), which influence glucose metabolism."
+  },
+  {
+    "question": "What prenatal factors are associated with insulin resistance later in life?",
+    "answer": "Intrauterine growth restriction and low birth weight are associated with insulin resistance in later life, likely due to adverse prenatal environmental influences on glucose metabolism."
+  },
+  {
+    "question": "What are some miscellaneous causes of diabetes mellitus?",
+    "answer": "Miscellaneous causes include monogenic diabetes (e.g., maturity-onset diabetes of youth), pancreatic conditions (e.g., cystic fibrosis, pancreatitis), endocrinopathies (e.g., Cushing syndrome), and medications like glucocorticoids and beta-blockers."
+  },
+  {
+    "question": "How does pregnancy affect insulin resistance?",
+    "answer": "Pregnancy causes some insulin resistance in all women, but only a fraction develop gestational diabetes."
+  },
+  {
+    "question": "What is the typical age of onset for Type 1 Diabetes Mellitus?",
+    "answer": "Type 1 Diabetes Mellitus most commonly begins before 30 years of age."
+  },
+  {
+    "question": "Is obesity commonly associated with Type 2 Diabetes Mellitus?",
+    "answer": "Yes, obesity is very common in Type 2 Diabetes Mellitus, unlike in Type 1."
+  },
+  {
+    "question": "What are the most common symptoms of hyperglycemia in diabetes?",
+    "answer": "The most common symptoms include urinary frequency, polyuria (excessive urination), and polydipsia (excessive thirst) due to osmotic diuresis caused by glycosuria."
+  },
+  {
+    "question": "Are pancreatic autoantibodies typically present at diagnosis in Type 2 Diabetes?",
+    "answer": "No, pancreatic autoantibodies are not present in Type 2 Diabetes, though they may sometimes be absent in Type 1 as well."
+  },
+  {
+    "question": "Can Type 2 Diabetes initially be managed with non-insulin medications?",
+    "answer": "Yes, many patients with Type 2 Diabetes initially respond to non-insulin antihyperglycemic medications."
+  },
+  {
+    "question": "What is the twin concordance rate for Type 1 Diabetes?",
+    "answer": "The twin concordance rate for Type 1 Diabetes is less than 50%."
+  },
+  {
+    "question": "What are the symptoms of severe dehydration caused by hyperglycemia?",
+    "answer": "Severe dehydration from hyperglycemia can cause weakness, fatigue, and mental status changes."
+  },
+  {
+    "question": "What are the stages of progression for type 1 diabetes mellitus?",
+    "answer": "Type 1 diabetes progresses in three stages: Stage 1 (presence of ≥2 islet autoantibodies with normal blood sugar and no symptoms), Stage 2 (glucose intolerance or dysglycemia but no symptoms), and Stage 3 (clinical symptoms)."
+  },
+  {
+    "question": "What is the honeymoon phase in type 1 diabetes?",
+    "answer": "The honeymoon phase is a transient period in stage 3 type 1 diabetes where patients experience near-normal glucose levels due to partial recovery of insulin secretion."
+  },
+  {
+    "question": "How is diabetes mellitus typically diagnosed?",
+    "answer": "Diabetes mellitus is diagnosed through measurement of plasma glucose, including fasting plasma glucose (FPG), glycosylated hemoglobin (HbA1C), and sometimes oral glucose tolerance testing (OGTT)."
+  },
+  {
+    "question": "What are some common symptoms of hyperglycemia besides polyphagia?",
+    "answer": "Hyperglycemia can cause weight loss, nausea and vomiting, blurred vision, and may predispose to bacterial or fungal infections."
+  },
+  {
+    "question": "What is the diagnostic threshold for diabetes using HbA1C levels?",
+    "answer": "An HbA1C level > 6.5% is diagnostic for diabetes."
+  },
+  {
+    "question": "Why is the oral glucose tolerance test (OGTT) rarely used routinely for diagnosing diabetes?",
+    "answer": "The OGTT is more sensitive but less convenient and reproducible than fasting plasma glucose (FPG), so it is rarely used routinely except for gestational diabetes or research purposes."
+  },
+  {
+    "question": "What random plasma glucose value may indicate diabetes, and what confirmation is needed?",
+    "answer": "A random glucose value > 200 mg/dL (> 11.1 mmol/L) may indicate diabetes, but it must be confirmed by repeat testing unless symptoms of diabetes are present."
+  },
+  {
+    "question": "What HbA1C range indicates prediabetes or an increased risk of diabetes?",
+    "answer": "An HbA1C level between 5.7% and 6.4% indicates prediabetes or an increased risk of diabetes."
+  },
+  {
+    "question": "Why are point-of-care fingerstick HbA1C tests not recommended for diagnosing diabetes?",
+    "answer": "Point-of-care fingerstick HbA1C tests are not accurate enough for initial diagnosis; they should only be used for monitoring diabetes control."
+  },
+  {
+    "question": "Why is urine glucose measurement no longer used for diagnosing or monitoring diabetes?",
+    "answer": "Urine glucose measurement is neither sensitive nor specific, so it is no longer used for diagnosis or monitoring."
+  },
+  {
+    "question": "What are the diagnostic criteria for diabetes mellitus based on fasting plasma glucose (FPG) levels?",
+    "answer": "Diabetes mellitus is diagnosed if the fasting plasma glucose (FPG) level is ≥ 126 mg/dL (7.0 mmol/L). Impaired glucose regulation is indicated by FPG levels between 100-125 mg/dL (5.6-6.9 mmol/L), while levels below 100 mg/dL (5.6 mmol/L) are considered normal."
+  },
+  {
+    "question": "At what HbA1C level is diabetes mellitus diagnosed?",
+    "answer": "Diabetes mellitus is diagnosed if the HbA1C level is >6.5%. Levels between 5.7-6.4% indicate prediabetes, and levels below 5.7% are considered normal."
+  },
+  {
+    "question": "When should screening for diabetic complications begin in patients with type 1 diabetes?",
+    "answer": "Screening for diabetic complications in patients with type 1 diabetes should begin 5 years after diagnosis. For type 2 diabetes, screening starts at the time of diagnosis."
+  },
+  {
+    "question": "What tests are included in the typical monitoring for diabetic complications?",
+    "answer": "Typical monitoring for diabetic complications includes a foot examination, funduscopic examination, urine testing for albuminuria, and measurement of serum creatinine and lipid profile."
+  },
+  {
+    "question": "How is a foot examination conducted to screen for diabetic neuropathy?",
+    "answer": "A foot examination for diabetic neuropathy assesses the sense of pressure, vibration, pain, or temperature, typically using a monofilament esthesiometer. The entire foot, especially the skin beneath the metatarsal heads, is checked for cracks, ischemia, infection, ulcerations, gangrene, fungal infections, decreased pulses, or hair loss."
+  },
+  {
+    "question": "What is the diagnostic threshold for diabetes mellitus based on a random glucose test?",
+    "answer": "A random glucose level of > 200 mg/dL (> 11.1 mmol/L) in a patient with symptoms (such as increased thirst, urination, or weight loss) is diagnostic for diabetes mellitus."
+  },
+  {
+    "question": "How often should patients with diabetes undergo eye screening by an ophthalmologist?",
+    "answer": "Patients with any retinopathy should be screened annually, while those without retinopathy on a prior examination can be screened every 2 years. More frequent evaluation may be needed if retinopathy shows progression."
+  },
+  {
+    "question": "What tests are recommended annually to monitor kidney function in diabetes patients?",
+    "answer": "Spot or 24-hour urine testing should be done annually to detect albuminuria, and serum creatinine should be measured annually to assess kidney function."
+  },
+  {
+    "question": "Why is a baseline ECG considered important for diabetes patients?",
+    "answer": "A baseline ECG is important due to the increased risk of heart disease in diabetes patients."
+  },
+  {
+    "question": "How frequently should blood pressure be measured in diabetes patients?",
+    "answer": "Blood pressure should be measured at every examination for diabetes patients."
+  },
+  {
+    "question": "What are the treatment options for type 2 diabetes?",
+    "answer": "Treatment options for type 2 diabetes include oral antihyperglycemics, non-insulin injectable medications like GLP-1 receptor agonists, insulin, or a combination of these."
+  },
+  {
+    "question": "What medications are often used to prevent complications in diabetes patients?",
+    "answer": "To prevent complications, renin-angiotensin-aldosterone system blockers (ACE inhibitors or ARBs) and statins are often prescribed."
+  },
+  {
+    "question": "What are the key elements of treatment for all diabetes patients?",
+    "answer": "The key elements of treatment for all diabetes patients include patient education, diet, exercise, weight loss, and monitoring of glucose control."
+  },
+  {
+    "question": "Do all patients with type 1 diabetes require insulin therapy?",
+    "answer": "Yes, all patients with type 1 diabetes require insulin therapy to replicate the pattern of insulin secretion seen in individuals without diabetes."
+  },
+  {
+    "question": "What is the goal of basal-bolus insulin therapy?",
+    "answer": "The goal of basal-bolus insulin therapy is to simulate basal insulin production to suppress hepatic glucose production (using longer-acting insulin) and control postprandial glucose excursions (using shorter-acting insulin before meals)."
+  },
+  {
+    "question": "Is sliding-scale insulin alone effective for maintaining euglycemia in diabetes patients?",
+    "answer": "No, sliding-scale insulin alone is not an effective strategy for maintaining euglycemia in patients with type 1 diabetes or most patients with type 2 diabetes."
+  },
+  {
+    "question": "What treatment approach is recommended for patients with type 2 diabetes and mildly elevated plasma glucose?",
+    "answer": "Patients with type 2 diabetes and mildly elevated plasma glucose may first be prescribed a trial of diet and exercise, followed by a non-insulin antihyperglycemic medication (often metformin) if lifestyle changes are insufficient."
+  },
+  {
+    "question": "When should early combination therapy or insulin therapy be initiated in type 2 diabetes patients?",
+    "answer": "Early combination therapy and/or insulin therapy should be initiated in patients with significant glucose elevations at diagnosis or with HbA1C levels 1.5 to 2.0% above target."
+  },
+  {
+    "question": "What is the first-line oral medication for type 2 diabetes in patients without atherosclerotic cardiovascular disease, heart failure, or chronic kidney disease?",
+    "answer": "Metformin is usually the first oral medication used due to its cost-effectiveness and safety profile."
+  },
+  {
+    "question": "Which second-line therapy may be more effective than insulin or used as an add-on to insulin therapy in type 2 diabetes?",
+    "answer": "Glucagon-like peptide-1 (GLP1) receptor agonists are an effective second-line therapy after metformin and may be more effective than insulin or used as an add-on to insulin therapy."
+  },
+  {
+    "question": "What medication classes are recommended for patients with atherosclerotic cardiovascular disease due to their cardiovascular benefits?",
+    "answer": "A sodium/glucose cotransporter 2 (SGLT2) inhibitor or a GLP-1 receptor agonist may be recommended because they decrease major adverse cardiovascular events (e.g., myocardial infarction, stroke) and mortality."
+  },
+  {
+    "question": "When should insulin be considered for patients with type 2 diabetes?",
+    "answer": "Insulin should be considered in patients with evidence of ongoing catabolism (weight loss), symptoms of hyperglycemia (e.g., polyuria, polydipsia), HbA1C levels > 10%, or blood glucose levels ≥ 300 mg/dL (16.7 mmol/L)."
+  },
+  {
+    "question": "Which medications are beneficial for patients with obesity and type 2 diabetes due to their weight-lowering effects?",
+    "answer": "GLP-1 receptor agonist therapy or tirzepatide, a dual glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 receptor agonist, can benefit patients with obesity due to their weight-lowering effects."
+  },
+  {
+    "question": "What are the key components of patient education for diabetes management?",
+    "answer": "Patient education should include information about the causes of diabetes, diet, exercise, medications, self-monitoring with fingerstick testing or continuous glucose monitoring, monitoring HbA1C, and symptoms of hypoglycemia, hyperglycemia, and diabetic complications."
+  },
+  {
+    "question": "How can diet adjustments help patients with diabetes?",
+    "answer": "Adjusting diet can help control glucose fluctuations and, for type 2 diabetes patients, aid in weight loss. Recommendations should be personalized based on patient preferences, culture, and goals, focusing on whole foods and high-quality carbohydrates."
+  },
+  {
+    "question": "What dietary approach is recommended for patients with type 1 diabetes to manage insulin dosing?",
+    "answer": "Patients with type 1 diabetes should use carbohydrate counting or the carbohydrate exchange system to match insulin doses to carbohydrate intake and facilitate physiologic insulin replacement."
+  },
+  {
+    "question": "What are the benefits of formal diabetes education programs?",
+    "answer": "Formal diabetes education programs, often conducted by diabetes nurses and nutrition specialists, are effective and have been shown to improve diabetes outcomes by reinforcing education at every visit."
+  },
+  {
+    "question": "Can a low-carbohydrate diet help manage blood glucose levels?",
+    "answer": "Some adults can reduce blood glucose levels and decrease antihyperglycemic medications by following a low- or very-low-carbohydrate eating plan, though maintaining such a diet can be challenging and benefits may not be sustained long-term."
+  },
+  {
+    "question": "How is the preprandial insulin dose calculated using the carbohydrate-to-insulin ratio (CIR)?",
+    "answer": "The preprandial insulin dose is calculated by dividing the grams of carbohydrates in a meal by the patient's CIR. For example, if the CIR is 15g:1 unit, a patient would need 1 unit of rapid-acting insulin for every 15g of carbohydrates consumed."
+  },
+  {
+    "question": "Why might insulin requirements vary between patients?",
+    "answer": "Insulin requirements vary between patients due to differences in insulin sensitivity. Factors such as individual metabolism, body composition, and overall health can influence how much insulin a patient needs."
+  },
+  {
+    "question": "How can meals with higher protein or fat content affect insulin dosing?",
+    "answer": "Meals with higher protein or fat content can increase insulin requirements because these nutrients slow digestion and may lead to prolonged blood glucose elevation, necessitating dose adjustments."
+  },
+  {
+    "question": "What role does a dietitian play in managing diabetes?",
+    "answer": "A dietitian provides detailed nutritional education, helps tailor meal plans to the patient's needs, and guides insulin dosing adjustments, especially for patients with diabetes. They ensure the patient and meal preparers understand dietary management."
+  },
+  {
+    "question": "What are the benefits of exercise for patients with type 2 diabetes?",
+    "answer": "Exercise improves glycemic control in type 2 diabetes. Both aerobic and resistance exercises are beneficial, and combining them has been shown to be more effective than either alone. Adults should aim for at least 150 minutes of exercise per week."
+  },
+  {
+    "question": "What is the target blood glucose range before exercise for patients with diabetes?",
+    "answer": "The target range for blood glucose prior to exercise should be between 90 mg/dL and 250 mg/dL (5 mmol/L to 14 mmol/L)."
+  },
+  {
+    "question": "How can patients with diabetes prevent hypoglycemia during exercise?",
+    "answer": "Patients should monitor blood glucose before and after exercise, ingest carbohydrates or lower their insulin dose as needed, and consume 5 to 15 g of simple sugar during vigorous exercise if hypoglycemia occurs."
+  },
+  {
+    "question": "Which medications are recommended for weight loss in patients with diabetes and obesity?",
+    "answer": "GLP-1 receptor agonists (e.g., semaglutide, liraglutide), SGLT-2 inhibitors, dual incretin agonists, or weight-neutral medications like dipeptidyl peptidase-4 inhibitors and metformin are recommended."
+  },
+  {
+    "question": "Why might patients with diabetes and cardiovascular disease need exercise stress testing?",
+    "answer": "Exercise stress testing helps assess cardiovascular risk and determine safe activity levels before starting an exercise program."
+  },
+  {
+    "question": "What is the mechanism of action of orlistat in weight loss?",
+    "answer": "Orlistat is an intestinal lipase inhibitor that reduces dietary fat absorption, lowers serum lipids, and promotes weight loss."
+  },
+  {
+    "question": "How does the oral hydrogel containing cellulose and citric acid help with weight loss?",
+    "answer": "The oral hydrogel causes patients to feel full and eat less, which can induce modest weight loss in patients with prediabetes and diabetes."
+  },
+  {
+    "question": "What are some medical devices used for weight loss in patients with diabetes?",
+    "answer": "Medical devices for weight loss include implanted gastric balloons, a vagus nerve stimulator, and gastric aspiration therapy, though their use is limited due to high cost and limited data."
+  },
+  {
+    "question": "Why is surgical treatment like sleeve gastrectomy or gastric bypass recommended for some diabetes patients?",
+    "answer": "Surgical treatments lead to weight loss, improve glucose control (independent of weight loss), and decrease cardiovascular risk in appropriately selected diabetes patients."
+  },
+  {
+    "question": "What daily foot care practices are recommended for diabetes patients with sensory loss or circulatory impairment?",
+    "answer": "Patients should inspect their feet daily, wash them in lukewarm water with mild soap, dry thoroughly, apply lubricant to dry skin, use nonmedicated foot powders for moist feet, and avoid harsh chemicals or constricting clothing."
+  },
+  {
+    "question": "How should toenails be trimmed for diabetes patients with foot sensitivity or circulatory issues?",
+    "answer": "Toenails should be cut straight across and not too close to the skin, preferably by a podiatrist, to prevent injury or complications."
+  },
+  {
+    "question": "What type of footwear is recommended for patients with foot deformities like hammer toe or bunion?",
+    "answer": "Special shoes should be prescribed to reduce trauma, and they should be wide-toed without open heels or toes."
+  },
+  {
+    "question": "Why should patients with neuropathic foot ulcers avoid walking barefoot?",
+    "answer": "Walking barefoot should be avoided to prevent further trauma and complications in neuropathic foot ulcers."
+  },
+  {
+    "question": "What treatment options are available for refractory neuropathic foot ulcers with osteomyelitis?",
+    "answer": "Surgical options include removal of the metatarsal head, toe amputation, or transmetatarsal amputation."
+  },
+  {
+    "question": "Which vaccinations are recommended for all patients with diabetes mellitus?",
+    "answer": "Patients should be vaccinated against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2."
+  },
+  {
+    "question": "What are the alternative means of insulin delivery for patients with type 1 diabetes mellitus?",
+    "answer": "Pancreas transplantation and transplantation of pancreatic islet cells are alternative methods to provide insulin-producing beta-cells."
+  },
+  {
+    "question": "What are the effects of sodium-glucose co-transporter-2 (SGLT-2) inhibitors on kidney outcomes in patients with diabetes?",
+    "answer": "A collaborative meta-analysis of large placebo-controlled trials found that SGLT-2 inhibitors improve kidney outcomes in patients with diabetes, though the impact may vary based on the presence of diabetes."
+  },
+  {
+    "question": "How do SGLT-2 inhibitors and GLP-1 receptor agonists compare in treating type 2 diabetes?",
+    "answer": "A systematic review and network meta-analysis of randomized controlled trials suggests that both SGLT-2 inhibitors and GLP-1 receptor agonists are effective for type 2 diabetes, but their comparative benefits may differ based on specific outcomes."
+  },
+  {
+    "question": "What is the impact of SGLT-2 inhibitors on patients with heart failure?",
+    "answer": "A comprehensive meta-analysis of five randomized controlled trials indicates that SGLT-2 inhibitors provide significant benefits for patients with heart failure, improving clinical outcomes."
+  },
+  {
+    "question": "How does exercise affect hemoglobin A1c levels in patients with type 2 diabetes?",
+    "answer": "A randomized controlled trial demonstrated that both aerobic and resistance training can help reduce hemoglobin A1c levels in patients with type 2 diabetes, suggesting exercise as an effective adjunct therapy."
+  },
+  {
+    "question": "What are the recommendations for physical activity in diabetes management according to the American Diabetes Association?",
+    "answer": "The American Diabetes Association's position statement recommends regular physical activity and exercise as key components of diabetes management, emphasizing benefits for glycemic control and cardiovascular health."
+  },
+  {
+    "question": "What are the primary goals of diabetes treatment?",
+    "answer": "The primary goals of diabetes treatment are to control hyperglycemia to relieve symptoms and prevent complications while minimizing hypoglycemic episodes."
+  },
+  {
+    "question": "What are the recommended preprandial blood glucose levels for most people with diabetes?",
+    "answer": "The recommended preprandial blood glucose levels for most people with diabetes are between 80 and 130 mg/dL (4.4 and 7.2 mmol/L)."
+  },
+  {
+    "question": "What is the target HbA1C level for glycemic control in most diabetes patients?",
+    "answer": "The target HbA1C level for glycemic control in most diabetes patients is less than 7%."
+  },
+  {
+    "question": "For which patients might less strict glycemic control goals be advisable?",
+    "answer": "Less strict glycemic control goals may be advisable for frail older patients, those with a short life expectancy, patients with hypoglycemia unawareness, or those who cannot communicate hypoglycemia symptoms (e.g., young children or patients with dementia)."
+  },
+  {
+    "question": "What is the recommended peak postprandial blood glucose level for diabetes management?",
+    "answer": "The recommended peak postprandial (1 to 2 hours after beginning of the meal) blood glucose level is less than 180 mg/dL (< 10 mmol/L)."
+  },
+  {
+    "question": "What are some characteristics of patients who may be candidates for tighter glycemic control?",
+    "answer": "Patients not being treated with medications that induce hypoglycemia, those with a shorter duration (<10 years) of diabetes mellitus, individuals with a long life expectancy, and those without cardiovascular disease may be candidates for tighter glycemic control."
+  },
+  {
+    "question": "How are glucose levels typically monitored in diabetic patients?",
+    "answer": "Glucose levels are typically monitored through home monitoring of capillary blood glucose (fingerstick) or continuous glucose monitoring (CGM). These methods help patients adjust dietary intake and insulin dosing."
+  },
+  {
+    "question": "How often should patients with type 1 diabetes test their blood glucose levels?",
+    "answer": "Most patients with type 1 diabetes should test their blood glucose at least 4 times a day, with more frequent monitoring recommended if levels are suboptimal or medication regimens change."
+  },
+  {
+    "question": "How frequently should HbA1C levels be monitored in diabetic patients?",
+    "answer": "HbA1C levels should be monitored every 3 months, or every 6 months for patients with consistently good glycemic control."
+  },
+  {
+    "question": "What factors influence the frequency of self-monitoring blood glucose (SMBG)?",
+    "answer": "The frequency of self-monitoring depends on blood glucose levels, the patient's needs and abilities, and the complexity of the treatment regimen."
+  },
+  {
+    "question": "What are some features to consider when choosing a fingerstick glucose monitor?",
+    "answer": "Features to consider include time to results (usually 5-30 seconds), size of the display panel (for patients with poor eyesight), and voice readout capabilities (for visually impaired users)."
+  },
+  {
+    "question": "What is the primary function of Continuous Glucose Monitoring (CGM) systems?",
+    "answer": "CGM systems estimate capillary blood glucose from interstitial glucose detected by a subcutaneous sensor, providing real-time or intermittent glucose measurements to monitor blood sugar levels."
+  },
+  {
+    "question": "How does CGM help in managing diabetes compared to fingerstick glucose monitoring?",
+    "answer": "CGM allows users and clinicians to identify patterns of hyperglycemia and hypoglycemia that may not be detected with fingerstick monitoring, improving time in target range (TIR) and reducing HbA1C levels."
+  },
+  {
+    "question": "What is the recommended target range for blood glucose levels in CGM users?",
+    "answer": "The target range for CGM users is 70 to 180 mg/dL (3.9 to 9.9 mmol/L), with a goal of achieving a 14-day TIR > 70% to reduce diabetes complications."
+  },
+  {
+    "question": "What are the risks associated with time below the target glucose range in CGM users?",
+    "answer": "Time below range (< 70 mg/dL) should be < 4%, and time below 54 mg/dL (< 3.0 mmol/L) should be < 1% to minimize the risk of severe hypoglycemia."
+  },
+  {
+    "question": "What is an Automated Insulin Delivery (AID) system, and who is it recommended for?",
+    "answer": "An AID system integrates CGM with an insulin pump to adjust insulin doses in real-time based on glucose levels. It is recommended for patients on multiple daily insulin injections to improve HbA1C control."
+  },
+  {
+    "question": "What are the two types of CGM systems available?",
+    "answer": "The two types are real-time CGM (provides continuous glucose measurements) and intermittently scanned CGM (requires scanning with a device to obtain glucose data)."
+  },
+  {
+    "question": "What is the benefit of using Continuous Glucose Monitors (CGMs) for patients with hypoglycemia unawareness?",
+    "answer": "CGMs are especially useful for patients with hypoglycemia unawareness as they can detect undetected episodes of hypoglycemia, providing alerts to prevent severe low blood sugar events."
+  },
+  {
+    "question": "How often should HbA1C levels be checked in patients with type 1 diabetes?",
+    "answer": "HbA1C levels should be assessed quarterly in patients with type 1 diabetes to monitor long-term glucose control."
+  },
+  {
+    "question": "What is the target HbA1C level for most diabetic patients?",
+    "answer": "For most diabetic patients, the goal HbA1C level is < 7%, though this target should be individualized based on the patient's specific condition."
+  },
+  {
+    "question": "What conditions can cause falsely elevated HbA1C levels?",
+    "answer": "Falsely elevated HbA1C levels may occur with low red blood cell turnover (e.g., due to iron, folate, or vitamin B12 deficiency anemia), high-dose aspirin use, or high blood alcohol concentrations."
+  },
+  {
+    "question": "Why might HbA1C levels appear falsely normal in some patients?",
+    "answer": "Falsely normal HbA1C values can occur with increased red blood cell turnover, such as in hemolytic anemias, hemoglobinopathies (e.g., HbS or HbC disease), or during treatment of deficiency anemias."
+  },
+  {
+    "question": "How long can some CGM sensors be used before replacement is needed?",
+    "answer": "Some CGM sensors can be used for up to 2 weeks before they need to be replaced."
+  },
+  {
+    "question": "In which patients is the correlation between HbA1C and glycemic levels poor?",
+    "answer": "The correlation between HbA1C and glycemic levels is poor in patients with cirrhosis or chronic kidney disease stages 4 and 5, and HbA1C may be falsely decreased in these cases."
+  },
+  {
+    "question": "How does pregnancy affect HbA1C values?",
+    "answer": "Pregnancy falsely decreases HbA1C values."
+  },
+  {
+    "question": "What does fructosamine measure in diabetes management?",
+    "answer": "Fructosamine reflects glucose control over the previous 1 to 2 weeks and is mostly glycosylated albumin."
+  },
+  {
+    "question": "When is fructosamine monitoring typically used?",
+    "answer": "Fructosamine monitoring is used during intensive diabetes treatment, for patients with hemoglobin variants or high red blood cell turnover, and mainly in research settings."
+  },
+  {
+    "question": "Why is urine glucose monitoring not recommended?",
+    "answer": "Urine glucose monitoring is too inaccurate to be recommended for diabetes management."
+  },
+  {
+    "question": "When should patients with type 1 diabetes self-measure urine ketones?",
+    "answer": "Patients with type 1 diabetes should self-measure urine ketones if they experience symptoms of ketoacidosis, such as nausea, vomiting, abdominal pain, fever, cold or flu-like symptoms, or sustained hyperglycemia (> 250 to 300 mg/dL)."
+  },
+  {
+    "question": "What organizations published the consensus report on diabetes monitoring in 2021?",
+    "answer": "The consensus report was published by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD)."
+  },
+  {
+    "question": "What is brittle diabetes?",
+    "answer": "Brittle diabetes refers to patients who experience dramatic, recurrent swings in glucose levels, often without an apparent reason."
+  },
+  {
+    "question": "Which type of diabetes is more likely to have labile plasma glucose levels and why?",
+    "answer": "Type 1 diabetes is more likely to have labile plasma glucose levels because endogenous insulin production is almost completely absent, and some patients may have an impaired counter-regulatory response to hypoglycemia."
+  },
+  {
+    "question": "What are some potential causes of erratic glucose levels in diabetes patients?",
+    "answer": "Potential causes include occult infection, gastroparesis (leading to erratic absorption of dietary carbohydrates), and endocrine disorders such as Addison disease."
+  },
+  {
+    "question": "What is the significance of time in range in diabetes management?",
+    "answer": "Time in range is an important metric in diabetes management, as it reflects the percentage of time a patient's glucose levels stay within the target range, helping to assess glycemic control."
+  },
+  {
+    "question": "How does closed-loop insulin delivery benefit patients with type 1 diabetes?",
+    "answer": "Closed-loop insulin delivery, or automated insulin delivery systems, can improve glycemic control by continuously monitoring glucose levels and adjusting insulin delivery automatically, reducing the risk of hypoglycemia and hyperglycemia."
+  },
+  {
+    "question": "What situational factors can affect glucose control in patients with chronic difficulty maintaining acceptable glucose levels?",
+    "answer": "Situational factors include inadequate patient education, errors in insulin administration, inappropriate food choices, and psychosocial stress leading to erratic medication use and food intake."
+  },
+  {
+    "question": "What is the initial approach to managing a patient with poor glucose control?",
+    "answer": "The initial approach involves reviewing self-care techniques like insulin preparation, injection, and glucose testing, increasing self-testing frequency, taking a thorough dietary history, and ruling out underlying disorders through physical examination and lab tests."
+  },
+  {
+    "question": "How can continuous glucose monitoring and insulin pump therapy help certain insulin-treated patients?",
+    "answer": "Continuous glucose monitoring with alarms and sensor-augmented or hybrid closed-loop insulin pump therapy are useful for patients who fluctuate between hypoglycemia and hyperglycemia, allowing for better glucose management."
+  },
+  {
+    "question": "What are the challenges in managing type 1 diabetes in children compared to adults?",
+    "answer": "Children with type 1 diabetes face challenges like unpredictable meal and activity patterns, limited ability to report hypoglycemic symptoms, and a higher risk of hypoglycemia, which may require modified treatment goals."
+  },
+  {
+    "question": "Can young children with diabetes participate in their own care? If so, how?",
+    "answer": "Yes, most young children can be taught to actively participate in their care, including glucose testing and insulin injections, with proper guidance and support."
+  },
+  {
+    "question": "Why is it important for school personnel and caregivers to be informed about diabetes in children?",
+    "answer": "School personnel and caregivers must be informed about diabetes to detect and treat hypoglycemic episodes promptly, ensuring the child's safety and well-being."
+  },
+  {
+    "question": "When can monitoring for microvascular complications typically be deferred in children with diabetes?",
+    "answer": "Monitoring for microvascular complications can generally be deferred until after puberty in children with diabetes."
+  },
+  {
+    "question": "What is the cornerstone of therapy for children with type 2 diabetes who have obesity?",
+    "answer": "Lifestyle modification is the cornerstone of therapy for children with type 2 diabetes who have obesity."
+  },
+  {
+    "question": "What are some factors that contribute to deteriorating glucose control in adolescents with diabetes?",
+    "answer": "Factors include pubertal and insulin-induced weight gain, hormonal changes decreasing insulin sensitivity, psychosocial factors like mood disorders or family conflict, substance use, and eating disorders leading to insulin omission."
+  },
+  {
+    "question": "What treatment approaches are often necessary for adolescents with recurrent hyperglycemia or diabetic ketoacidosis?",
+    "answer": "Treatment often involves intensive medical supervision combined with psychosocial interventions, therapy, and patient education to help adolescents manage their condition safely."
+  },
+  {
+    "question": "What are the key components of careful glycemic control for diabetes mellitus?",
+    "answer": "Careful glycemic control involves frequent glucose monitoring and the use of frequent, low-dose, fast-acting insulins as needed."
+  },
+  {
+    "question": "Under what conditions might a patient with diabetes benefit from hospitalization?",
+    "answer": "Hospitalization may benefit patients with diabetic ketoacidosis, hyperosmolar hyperglycemic state, poorly controlled hyperglycemia, acute worsening of diabetic complications, or those on sulfonylureas. Children and adolescents with new-onset diabetes may also benefit."
+  },
+  {
+    "question": "Why might insulin doses used in the inpatient setting cause hypoglycemia after discharge?",
+    "answer": "Insulin doses developed in controlled inpatient settings may be too high for uncontrolled conditions outside the hospital, leading to hypoglycemia if not adjusted upon discharge."
+  },
+  {
+    "question": "How can acute illness or hospitalization affect glucose control in diabetic patients?",
+    "answer": "Acute illness or hospitalization can worsen hyperglycemia due to restricted activity or cause hypoglycemia due to dietary restrictions or symptoms like nausea and vomiting, especially if medication doses remain unchanged."
+  },
+  {
+    "question": "Why might metformin need to be stopped in hospitalized patients?",
+    "answer": "Metformin should be stopped in hospitalized patients with renal insufficiency because it can cause lactic acidosis."
+  },
+  {
+    "question": "Why is metformin typically withheld in hospitalized patients?",
+    "answer": "Metformin is withheld in hospitalized patients, except for the most stable ones, primarily due to the risk of contrast-induced nephropathy if contrast agents need to be administered."
+  },
+  {
+    "question": "What is a potential risk of using sulfonylureas in inpatients?",
+    "answer": "Sulfonylureas can cause hypoglycemia and should be stopped in hospitalized patients to avoid this complication."
+  },
+  {
+    "question": "What is the recommended approach for treating hyperglycemia in most inpatients?",
+    "answer": "Most inpatients can be appropriately treated with basal insulin, with or without supplemental short-acting insulin, to manage hyperglycemia effectively."
+  },
+  {
+    "question": "Why is sliding-scale insulin alone not recommended for correcting hyperglycemia?",
+    "answer": "Sliding-scale insulin is reactive rather than proactive and leads to poor glycemic control compared to basal-bolus insulin. It should not be the only intervention for hyperglycemia."
+  },
+  {
+    "question": "What are the risks associated with inpatient hyperglycemia?",
+    "answer": "Inpatient hyperglycemia is associated with increased infection rates, mortality, and poor outcomes such as organ failure, especially in critically ill patients."
+  },
+  {
+    "question": "What is the target plasma glucose range for insulin infusion in critically ill patients?",
+    "answer": "Insulin infusion should maintain plasma glucose between 140 and 180 mg/dL (7.8 and 10.0 mmol/L) to prevent adverse outcomes and improve survival in critically ill patients."
+  },
+  {
+    "question": "Why might severely ill patients require very high doses of insulin?",
+    "answer": "Severely ill patients, especially those treated with glucocorticoids, pressors, or total parenteral nutrition (TPN), may need very high insulin doses (> 5 to 10 units/hour) due to insulin resistance."
+  },
+  {
+    "question": "What is the purpose of using HMS in insulin titration?",
+    "answer": "HMS can be used to titrate insulin drips to maintain euglycemia (normal blood glucose levels)."
+  },
+  {
+    "question": "How does surgery affect plasma glucose levels in diabetic patients?",
+    "answer": "The physiologic stress of surgery can increase plasma glucose in patients with diabetes and induce diabetic ketoacidosis in those with type 1 diabetes."
+  },
+  {
+    "question": "What insulin dose adjustment is recommended for type 1 diabetes patients before surgery?",
+    "answer": "For type 1 diabetes patients, one half to two thirds of the usual morning dose of intermediate-acting insulin or 70 to 80% of the dose of long-acting insulin (glargine or detemir) can be given the night or morning before surgery."
+  },
+  {
+    "question": "How should plasma glucose be monitored during and after surgery for diabetic patients?",
+    "answer": "Plasma glucose (and ketones if hyperglycemia suggests the need) should be measured at least every 2 hours during and after surgery."
+  },
+  {
+    "question": "What is the preferred method of insulin administration for patients undergoing long or major surgery?",
+    "answer": "For patients undergoing a long procedure or major surgery, a continuous insulin infusion is preferable, as insulin requirements can increase due to surgical stress."
+  },
+  {
+    "question": "What is the target plasma glucose range for diabetic patients after surgery until oral feedings resume?",
+    "answer": "The target plasma glucose level should be maintained between 100 and 200 mg/dL (5.5 and 11.1 mmol/L) until the patient can resume oral feedings and their usual insulin regimen."
+  },
+  {
+    "question": "What is the GIK regimen and how is it prepared?",
+    "answer": "The GIK regimen combines glucose, insulin, and potassium in the same bag. For example, it can be prepared by mixing 10% dextrose with 10 mEq (10 mmol) potassium and 15 units of insulin in a 500-mL bag."
+  },
+  {
+    "question": "Why is the GIK regimen not commonly used in many institutions?",
+    "answer": "The GIK regimen is not widely used because it requires frequent remixing and changing of bags to adjust to the patient's glycemia levels, making it less practical."
+  },
+  {
+    "question": "What is a more common approach for insulin infusion in the United States?",
+    "answer": "A more common approach in the U.S. is to infuse insulin and dextrose separately, with insulin infused at 1 to 2 U/hour and 5% dextrose at 75 to 150 mL/hour."
+  },
+  {
+    "question": "How should insulin infusion rates be adjusted for patients with type 1 vs. type 2 diabetes?",
+    "answer": "Insulin rates may need to be decreased for insulin-sensitive type 1 diabetes patients and increased for insulin-resistant type 2 diabetes patients."
+  },
+  {
+    "question": "Why is it important to continue insulin infusion in patients with type 1 diabetes during recovery?",
+    "answer": "Continuing insulin infusion prevents the development of diabetic ketoacidosis in patients with type 1 diabetes."
+  },
+  {
+    "question": "How can inconsistent effects due to insulin adsorption onto IV tubing be minimized?",
+    "answer": "Inconsistent effects can be minimized by preflushing the IV tubing with insulin solution."
+  },
+  {
+    "question": "What should be done with oral antihyperglycemic medications for type 2 diabetes patients on the day of surgery?",
+    "answer": "Most oral medications, including sulfonylureas and metformin, should be withheld on the day of surgery."
+  },
+  {
+    "question": "How often should plasma glucose levels be measured in patients receiving IV fluids perioperatively?",
+    "answer": "Plasma glucose levels should be measured preoperatively, postoperatively, and every 6 hours while patients receive IV fluids."
+  },
+  {
+    "question": "When should metformin be withheld after surgery?",
+    "answer": "Metformin should be withheld until normal renal function is confirmed 48 hours after surgery."
+  },
+  {
+    "question": "Who should be screened for diabetes mellitus?",
+    "answer": "Screening should be conducted for people at increased risk of the disease, including those with risk factors like age ≥ 35 years, overweight/obesity, sedentary lifestyle, family history of type 2 diabetes, or other metabolic conditions."
+  },
+  {
+    "question": "What tests can identify high-risk individuals for type 1 diabetes before clinical onset?",
+    "answer": "Siblings and children of people with type 1 diabetes can be tested for islet cell or anti-glutamic acid decarboxylase antibodies, which precede clinical disease."
+  },
+  {
+    "question": "What are some key risk factors for type 2 diabetes?",
+    "answer": "Risk factors include age ≥ 35, overweight/obesity, sedentary lifestyle, family history, prediabetes, gestational diabetes, hypertension, dyslipidemia, cardiovascular disease, certain ethnicities, steatotic liver disease, and HIV infection."
+  },
+  {
+    "question": "How often should adults with risk factors be screened for diabetes?",
+    "answer": "Adults >35 years or with additional risk factors should be screened every 3 years if glucose levels are normal, or annually if impaired fasting glucose is detected."
+  },
+  {
+    "question": "What diagnostic tests are used for diabetes screening?",
+    "answer": "Screening can be done with fasting plasma glucose (FPG), HbA1C, or a 2-hour value on a 75-g oral glucose tolerance test (OGTT)."
+  },
+  {
+    "question": "What is the current status of therapies to completely prevent type 1 diabetes?",
+    "answer": "There are no current therapies to completely prevent type 1 diabetes."
+  },
+  {
+    "question": "How does teplizumab work in delaying the progression of type 1 diabetes?",
+    "answer": "Teplizumab is a monoclonal antibody that binds to CD3 cell surface antigens on T cells, increasing regulatory T cells and exhausted CD8+ T cells, which attenuates the autoimmune response leading to beta-cell destruction."
+  },
+  {
+    "question": "What was the median delay in time to diagnosis of type 1 diabetes observed in the initial trial using teplizumab?",
+    "answer": "In the initial trial, teplizumab resulted in a median 24-month delay in time to diagnosis of type 1 diabetes."
+  },
+  {
+    "question": "Which other treatments have shown promise in preserving beta-cell function in recent-onset type 1 diabetes?",
+    "answer": "Antithymocyte globulin (ATG), TNF-alpha inhibitors, and abatacept (CTLA-4-lg) have shown some promise in preserving beta-cell function in recent-onset type 1 diabetes."
+  },
+  {
+    "question": "What was the difference in stage 3 type 1 diabetes diagnosis rates between teplizumab and placebo in the follow-up study?",
+    "answer": "In the follow-up study, stage 3 type 1 diabetes was diagnosed in 22% of participants treated with teplizumab versus 50% in the placebo group."
+  },
+  {
+    "question": "What lifestyle changes can help prevent Type 2 diabetes?",
+    "answer": "Weight loss of as little as 7% of baseline body weight combined with moderate-intensity physical activity, such as walking 30 minutes/day, can reduce the incidence of diabetes in high-risk people by over 50%."
+  },
+  {
+    "question": "Which medication is considered safe and cost-effective for diabetes prevention?",
+    "answer": "Metformin is safe, cost-effective, and has the strongest evidence for preventing diabetes, especially in high-risk patients like those with a BMI of 35 or a history of gestational diabetes."
+  },
+  {
+    "question": "What are the recommended blood pressure targets for most patients with diabetes?",
+    "answer": "For most patients with diabetes, blood pressure should be maintained at < 130/80 mm Hg, though targets may need to be individualized based on medication side effects."
+  },
+  {
+    "question": "How can metabolic surgery help in diabetes prevention?",
+    "answer": "Metabolic (bariatric) surgery has been shown to decrease the risk of progression to diabetes in patients with obesity."
+  },
+  {
+    "question": "What is the recommended follow-up interval for monitoring high-risk individuals for diabetes?",
+    "answer": "Ideal follow-up intervals are not determined, but annual or biannual checks are likely appropriate for monitoring high-risk individuals for diabetes symptoms or elevated plasma glucose."
+  },
+  {
+    "question": "What is the primary cause of Type 1 diabetes?",
+    "answer": "Type 1 diabetes is caused by an absence of insulin production due to autoimmune-mediated inflammation in pancreatic beta cells."
+  },
+  {
+    "question": "What are the main causes of Type 2 diabetes?",
+    "answer": "Type 2 diabetes is caused by hepatic insulin resistance (inability to suppress hepatic glucose production) and peripheral insulin resistance (impairs peripheral glucose uptake)."
+  },
+  {
+    "question": "What is the effect of Verapamil on pancreatic beta cell function in newly diagnosed pediatric Type 1 diabetes?",
+    "answer": "A randomized clinical trial studied the effect of Verapamil on pancreatic beta cell function in newly diagnosed pediatric Type 1 diabetes, though the specific outcome is not detailed in the provided text."
+  },
+  {
+    "question": "How can the incidence of Type 2 diabetes be reduced?",
+    "answer": "The incidence of Type 2 diabetes can be reduced through lifestyle intervention or the use of metformin, as demonstrated in clinical studies."
+  },
+  {
+    "question": "What is the therapeutic use of metformin in prediabetes?",
+    "answer": "Metformin is used therapeutically in prediabetes and for diabetes prevention, as it helps improve insulin sensitivity and reduce hepatic glucose production."
+  },
+  {
+    "question": "What are the diagnostic criteria for diabetes mellitus?",
+    "answer": "Diabetes mellitus is diagnosed by an elevated fasting plasma glucose level, an elevated hemoglobin A1C, or an elevated 2-hour value on an oral glucose tolerance test."
+  },
+  {
+    "question": "What are the microvascular complications of diabetes?",
+    "answer": "Microvascular complications of diabetes include nephropathy (kidney disease), neuropathy (nerve damage), and retinopathy (eye disease)."
+  },
+  {
+    "question": "What are the macrovascular complications associated with diabetes?",
+    "answer": "Macrovascular complications of diabetes involve atherosclerosis, which can lead to coronary artery disease, transient ischemic attack (TIA) or stroke, and peripheral arterial insufficiency."
+  },
+  {
+    "question": "What are the primary treatment approaches for diabetes?",
+    "answer": "Treatment for diabetes includes diet modification, exercise, weight loss, and medications such as insulin, oral antihyperglycemic drugs, or injectable antihyperglycemic medications."
+  },
+  {
+    "question": "What additional medications are often prescribed to diabetic patients to prevent complications?",
+    "answer": "Diabetic patients are often prescribed renin-angiotensin-aldosterone system blockers (e.g., ACE inhibitors or ARBs) and statins to help prevent complications."
+  },
+  {
+    "question": "Which organizations collaborated on the Diabetes Care 2020 guidelines?",
+    "answer": "The organizations include Diabetes Care & Education Specialists, the Academy of Nutrition and Dietetics, the American Academy of Family Physicians, the American Academy of PAs, the American Association of Nurse Practitioners, and the American Pharmacists Association."
+  },
+  {
+    "question": "What is the publication year and volume number of the Diabetes Care guidelines referenced?",
+    "answer": "The guidelines were published in 2020 in Volume 43, Issue 7 of Diabetes Care."
+  },
+  {
+    "question": "What is the DOI for the Diabetes Care 2020 guidelines?",
+    "answer": "The DOI for the guidelines is 10.2337/dci20-0023."
+  },
+  {
+    "question": "Who holds the copyright for the referenced Merck & Co. material?",
+    "answer": "The copyright is held by Merck & Co., Inc., Rahway, NJ, USA, and its affiliates."
+  },
+  {
+    "question": "What is the focus of the MSD Manuals professional page linked in the text?",
+    "answer": "The page focuses on endocrine and metabolic disorders, specifically diabetes mellitus and disorders of carbohydrate metabolism."
+  }
+]

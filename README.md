@@ -31,13 +31,13 @@ The workflow includes:
 - Tesseract (macOS: brew install tesseract)
 - Poppler (macOS: brew install poppler)
 
-## File Structure
-.
-├── 从文档里提取问答题.py            # Main script: generates QAs and saves to JSON
-├── test tessarcat.py                # Tesseract environment test
-├── MSD diabetes.pdf                 # Sample input PDF (scanned)
-├── diabetes_qa_pairs.json          # Generated output QA file
-├── README.md
+## File Structure   
+.  
+├── 从文档里提取问答题.py            # Main script: generates QAs and saves to JSON  
+├── test tessarcat.py                # Tesseract environment test   
+├── MSD diabetes.pdf                 # Sample input PDF (scanned)   
+├── diabetes_qa_pairs.json          # Generated output QA file   
+├── README.md   
 
 ## Quick Start
 

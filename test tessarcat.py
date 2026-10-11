@@ -1,18 +1,7 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  1 21:42:29 2025
+# Original environment test created May 1, 2025; author: rickr.
+# Use tools on PATH rather than a machine-specific Tesseract directory.
+from check_environment import main
 
-@author: rickr
-"""
 
-import pytesseract
-from PIL import Image
-
-pytesseract.pytesseract.tesseract_cmd = r"D:\tessarcat\tesseract.exe"
-
-img = Image.new("RGB", (300, 100), color=(255, 255, 255))
-from PIL import ImageDraw
-d = ImageDraw.Draw(img)
-d.text((10, 30), "Hello Tesseract!", fill=(0, 0, 0))
-
-print(pytesseract.image_to_string(img))  # 应该输出: Hello Tesseract!
+if __name__ == "__main__":
+    raise SystemExit(main())

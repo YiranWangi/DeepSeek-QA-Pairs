@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "status": "complete",
+  "document": {
+    "file_name": "source.txt",
+    "sha256": "47a60b0a14680e48417fc7e763b7a1f70c41b428498dabc1ac76eab56da09341",
+    "page_count": 2,
+    "extraction_method": "invented software-test fixture; not OCR"
+  },
+  "generation": {
+    "mode": "offline_replay",
+    "requested_model": null,
+    "chunk_size": 2000,
+    "temperature": 0.3,
+    "max_tokens": 4000
+  },
+  "source_chunks": [
+    {
+      "chunk_id": "chunk_0001",
+      "page": 1,
+      "text": "The study measured blood pressure at two visits."
+    },
+    {
+      "chunk_id": "chunk_0002",
+      "page": 2,
+      "text": "The sample included twelve volunteers."
+    }
+  ],
+  "qa_pairs": [
+    {
+      "question": "How many visits were recorded?",
+      "answer": "Two visits.",
+      "evidence": "The study measured blood pressure at two visits.",
+      "source": {
+        "file_name": "source.txt",
+        "document_sha256": "47a60b0a14680e48417fc7e763b7a1f70c41b428498dabc1ac76eab56da09341",
+        "page": 1,
+        "chunk_id": "chunk_0001"
+      },
+      "review_status": "unreviewed"
+    },
+    {
+      "question": "How many volunteers were included?",
+      "answer": "Twelve volunteers.",
+      "evidence": "The sample included twelve volunteers.",
+      "source": {
+        "file_name": "source.txt",
+        "document_sha256": "47a60b0a14680e48417fc7e763b7a1f70c41b428498dabc1ac76eab56da09341",
+        "page": 2,
+        "chunk_id": "chunk_0002"
+      },
+      "review_status": "unreviewed"
+    }
+  ],
+  "chunk_results": [
+    {
+      "chunk_id": "chunk_0001",
+      "page": 1,
+      "raw_content": "{\n  \"qa_pairs\": [\n    {\n      \"question\": \"How many visits were recorded?\",\n      \"answer\": \"Two visits.\",\n      \"evidence\": \"The study measured blood pressure at two visits.\"\n    }\n  ]\n}\n",
+      "status": "checked",
+      "received": 1,
+      "accepted": 1,
+      "rejected": []
+    },
+    {
+      "chunk_id": "chunk_0002",
+      "page": 2,
+      "raw_content": "{\n  \"qa_pairs\": [\n    {\n      \"question\": \"How many volunteers were included?\",\n      \"answer\": \"Twelve volunteers.\",\n      \"evidence\": \"The sample included twelve volunteers.\"\n    }\n  ]\n}\n",
+      "status": "checked",
+      "received": 1,
+      "accepted": 1,
+      "rejected": []
+    }
+  ],
+  "summary": {
+    "chunks": 2,
+    "failed_chunks": 0,
+    "accepted_pairs": 2,
+    "rejected_pairs": 0,
+    "empty_pages": 0
+  }
+}

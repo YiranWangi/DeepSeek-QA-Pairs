@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "document": {
+    "file_name": "source.txt",
+    "sha256": "47a60b0a14680e48417fc7e763b7a1f70c41b428498dabc1ac76eab56da09341",
+    "page_count": 2,
+    "extraction_method": "invented software-test fixture; not OCR"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "text": "The study measured blood pressure at two visits."
+    },
+    {
+      "page": 2,
+      "text": "The sample included twelve volunteers."
+    }
+  ]
+}
